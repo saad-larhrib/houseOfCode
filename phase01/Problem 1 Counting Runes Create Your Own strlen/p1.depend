@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742400705 source:c:\users\saadp\onedrive\bureau\c++ td n1\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
